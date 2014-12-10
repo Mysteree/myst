@@ -1,0 +1,21 @@
+body {
+	background-color:#B073B2;
+}
+
+#header {
+	width:100%;
+	height:200px;
+	border-radius:9px;
+	background-color:#93E846;
+}
+
+#dimScreen {
+    width: 100%;
+    height: 100%;
+    background:#FFFFFF;
+    /* background:rgba(255,255,255,0.5); */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
